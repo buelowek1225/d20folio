@@ -11,7 +11,7 @@ const CharacterSchema = new Schema({
     },
     class: {
         type: String,
-        enum: ['Warior', 'Mystic', 'Rogue']
+        enum: ['Warrior', 'Mystic', 'Rogue']
     },
     level: {
         type: Number,
