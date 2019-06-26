@@ -44,12 +44,12 @@ export default class NavigationBar extends React.Component {
               </NavItem>
               <NavItem>
                 <NavLink>
-                    <Link to='/mychars'>My Characers</Link>
+                    <Link to='/mychars'>My Characters</Link>
                 </NavLink>
               </NavItem>
               <NavItem>
                 <NavLink>
-                    <Link to='/new'>Add New Characer</Link>
+                    <Link to='/new'>Add New Character</Link>
                 </NavLink>
               </NavItem>
             </Nav>
